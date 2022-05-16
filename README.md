@@ -34,8 +34,8 @@ src="https://img.shields.io/github/followers/yozzylazzy?logo=github&style=for-th
 <p align="left"> <a href="https://www.github.com/yozzylazzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yosef_adrian/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yosef-adrian-aa8344194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18395539/yozzy-lazzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" alt="Unity Essentials Pathway" width="340" height="340">
-<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/28f94e97-1ac3-46cb-9384-e9c44f95758d/00-Junior_Programmer-Pathway.png" alt="Unity Junior Programmer" width="340" height="340">
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" alt="Unity Essentials Pathway" href="https://www.credly.com/badges/2580dc0f-bf28-47af-8827-638e0bead9b1?source=linked_in_profile" width="340" height="340">
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/28f94e97-1ac3-46cb-9384-e9c44f95758d/00-Junior_Programmer-Pathway.png" alt="Unity Junior Programmer" href="https://www.credly.com/badges/24040b73-fc6e-4810-9b49-6fd119e3f38a?source=linked_in_profile" width="340" height="340">
 
 <b>My GitHub Stats</b>
 
