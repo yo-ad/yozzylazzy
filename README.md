@@ -6,7 +6,7 @@ Game Development, Web Development, Application Development
 
 🌱 I’m currently learning Unity Engine, HTML, React-JS, C#, Java, Html, CSS, JavaScript, Python (my focused are in Game Development and Java and Web Development) 
 
-📫 find me on instagram : @yosef\_adrian*
+📫 find me on instagram : 
 
 ----------------------------------------------------------
 🌍  I'm based in Indonesia* 
