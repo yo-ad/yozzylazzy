@@ -13,7 +13,7 @@ Game Development, Web Development, Application Development
 
 🖥️  See my portfolio at [Github](http://github.com/yozzylazzy)* 
 
-✉️  You can contact me at [kristian\_yosef@yahoo.com](mailto:kristian_yosef@yahoo.com)* 
+✉️  You can contact me at [yozzylazzy@yahoo.com](mailto:yozzylazzy@yahoo.com)* 
 
 🚀  I'm currently working on [Web Development](http://github.com/yozzylazzy/Pemrograman-Berbasis-Web-Me-)* 
 
