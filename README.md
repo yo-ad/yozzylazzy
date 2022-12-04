@@ -17,7 +17,7 @@ Game Development, Web Development, Application Development
 
 🚀  I'm currently working on [Web Development](http://github.com/yozzylazzy/Pemrograman-Berbasis-Web-Me-)* 
 
-🧠  I'm learning CodeIgniter, Unity Game Development, Data Structure, PHP, Visual Studio Basic/Professional 2019* 
+🧠  I'm learning Laravel, Unity Game Development, Data Structure, PHP, Visual Studio Basic/Professional 2019, Flutter, Java
 
 🤝  I'm open to collaborating on Game Development
 
