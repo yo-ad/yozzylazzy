@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/yozzylazzy)
 <h1 align="center">Hello 👋, I am Yosef Adrian</h1>
 <h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Giphy" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> </p>
 
