@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/yozzylazzy)
 <h1 align="center">Hello 👋, I am Yosef Adrian</h1>
 <h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
-<img align="right" alt="Giphy" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRkNDI2ZDJjMTU1ZjczYWE1MzM2MjM2YmJlZDNiNDFlZmYxMjdhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Giphy" width="400" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg?w=900&t=st=1682357593~exp=1682358193~hmac=119798b072cd8afa830a64a0e8f328bbc29a7956affcc39e9f387ab2bafb7139">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> </p>
 
@@ -38,10 +38,15 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div style="display: flex; justify-content: space-between">
-    <div style="display: inline-block"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yozzylazzy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yozzylazzy" /></div>
-    <div style="display: inline-block"><img src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" /></div>
-    <div style="display: inline-block"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" /></div>
+<div style="display:flex;flex-wrap:no-wrap;">
+    <div style="flex:1;margin-right:10px;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yozzylazzy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yozzylazzy" />
+    </div>
+    <div style="flex:1;margin-right:10px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" />
+    </div>
+    <div style="flex:1;">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" />
+    </div>
 </div>
-
 
