@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/yozzylazzy) -->
+[![YOZZY-LAZZY.gif](https://s12.gifyu.com/images/YOZZY-LAZZY.gif)](https://gifyu.com/image/SlkxD)
 <h1 align="center">Hello 👋, I am Yosef Adrian</h1>
 <h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
 <img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
@@ -38,8 +38,8 @@
 
 
 <div>
-<!--     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozzylazzy&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> -->
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozzylazzy&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy">
 </div>
 
