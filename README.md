@@ -38,8 +38,9 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yozzylazzy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yozzylazzy" /></p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yozzylazzy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yozzylazzy" /></div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" /></div>
+  <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" /></div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" /></p>
