@@ -39,10 +39,10 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div style="display:flex;flex-wrap:no-wrap;">
-    <div style="flex:1;margin-right:10px;">
+    <div style="flex:1;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yozzylazzy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yozzylazzy" />
     </div>
-    <div style="flex:1;margin-right:10px;">
+    <div style="flex:1;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" />
     </div>
     <div style="flex:1;">
