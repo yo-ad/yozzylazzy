@@ -41,6 +41,6 @@
    
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozzylazzy&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy">
+  <img align="left" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy">
 </div>
 
