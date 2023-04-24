@@ -15,7 +15,7 @@ Game Development, Web Development, Application Development
 
 ✉️  You can contact me at [yozzylazzy@yahoo.com](mailto:yozzylazzy@yahoo.com)* 
 
-🚀  I'm currently working on [Web Development](http://github.com/yozzylazzy/Pemrograman-Berbasis-Web-Me-)* 
+🚀  I'm currently working on [Web Development] at my internship* 
 
 🧠  I'm learning Laravel, Unity Game Development, Data Structure, PHP, Visual Studio Basic/Professional 2019, Flutter, Java
 
