@@ -1,7 +1,7 @@
 [![MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://github.com/yozzylazzy/)
 <h1 align="center">Hello 👋, I am Yosef Adrian</h1>
-<h3 align="center">Focusing on: Game|Website|Android Application Developer and UI/UX Designer</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> </p>
 
