@@ -26,9 +26,7 @@
 <a href="https://linkedin.com/in/yosef-adrian-aa8344194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef-adrian-aa8344194" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18395539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18395539" height="30" width="40" /></a>
 <a href="https://kaggle.com/yosefadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yosefadrian" height="30" width="40" /></a>
-<a href="https://instagram.com/yosef_adrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosef_adrian" height="30" width="40" /></a>
 <a href="https://medium.com/@sao297b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sao297b" height="30" width="40" /></a>
-<a href="https://discord.gg/Yosef Adrian#1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yosef Adrian#1866" height="30" width="40" /></a>
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
