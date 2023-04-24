@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/yozzylazzy)
+<!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/yozzylazzy) -->
 <h1 align="center">Hello 👋, I am Yosef Adrian</h1>
 <h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
 <img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
