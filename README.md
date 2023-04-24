@@ -11,7 +11,7 @@ Game Development, Web Development, Application Development
 ----------------------------------------------------------
 🌍  I'm based in Indonesia* 
 
-🖥️  See my portfolio at [Github](http://github.com/yozzylazzy)* 
+🖥️  (On Development) See my portfolio at [Github](http://yozzylazzy.github.io)* 
 
 ✉️  You can contact me at [yozzylazzy@yahoo.com](mailto:yozzylazzy@yahoo.com)* 
 
