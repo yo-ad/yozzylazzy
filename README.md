@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy" /></p>
