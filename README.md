@@ -37,7 +37,6 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yozzylazzy&show_icons=true&locale=en&theme=tokyonight" alt="yozzylazzy">
     <img align="left" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=yozzylazzy&&theme=tokyonight" alt="yozzylazzy">
   </div>
   <div>
