@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/yozzylazzy/yozzylazzy/blob/main/Copy%20of%20YOZZY%20LAZZY.png)](https://github.com/yozzylazzy)
-<h1 align="center">Hello 👋, I am Yosef Adrian</h1>
+<h1 align="center">Hello 👋, I am Yosef Adrian as Yozzy Lazzy</h1>
 <h3 align="center">Game|Website|Android Application Developer && UI/UX Designer</h3>
 <img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
 
