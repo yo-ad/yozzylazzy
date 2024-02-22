@@ -4,7 +4,7 @@
 <img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> </p>
-
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 <p align="left"> <a href="https://twitter.com/yozzylazzy" target="blank"><img src="https://img.shields.io/twitter/follow/yozzylazzy?logo=twitter&style=for-the-badge" alt="yozzylazzy" /></a> </p>
 
 - 🔭 I’m currently working on **Web Application**
@@ -45,7 +45,3 @@
     </a>
   </div>
 </div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
