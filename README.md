@@ -1,29 +1,9 @@
-<!-- <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-      .profilepict {
-        border-radius: 30px;
-        width: 42vw;
-      }
-      .container-head{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2px;
-      }
-      </style>
-    </div>
-  </foreignObject>
-</svg> -->
-
 [![MasterHead](https://github.com/yozzylazzy/yozzylazzy/blob/main/Copy%20of%20YOZZY%20LAZZY.png)](https://github.com/yozzylazzy)
 
 <h1 align="center">Hi 👋, I'm Yozzy Lazzy</h1>
 <h3 align="center">Full-stack | Machine Learning | Cloud Developer</h3>
 
-<div class="container-head">
-<img class="grid-item profilepict" align="left" alt="yozzylazzy" width="250" src="self-pict.jpeg"/>
-<div class="grid-item">
+<img align="left" alt="yozzylazzy" width="230" src="self-pict.jpeg"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> 
 </p>
@@ -34,8 +14,6 @@
 - 🌱 Working in web, mobile, game, machine learning, and cloud environment
 - 👨‍💻 My Profile Website is at [https://yozzylazzy.github.io/](https://yozzylazzy.github.io/)
 - 📫 How to reach me **yozzylazzy@yahoo.com**
-</div>
-</div>
 
 ---
 
