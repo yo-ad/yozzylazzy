@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yozzy Lazzy</h1>
 <h3 align="center">Full-stack | Machine Learning | Cloud Developer</h3>
 
-<img align="left" alt="yozzylazzy" width="230" src="self-pict.jpeg"/>
+<img align="left" alt="yozzylazzy" width="200" src="self-pict.jpeg"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> 
 </p>
