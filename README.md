@@ -1,7 +1,8 @@
 [![MasterHead](https://github.com/yozzylazzy/yozzylazzy/blob/main/Copy%20of%20YOZZY%20LAZZY.png)](https://github.com/yozzylazzy)
 
 <h1 align="center">Hi 👋, I'm Yozzy Lazzy</h1>
-<h3 align="center">Full-stack | Machine Learning | Cloud Developer</h3>
+<h2 align="center">Full-stack | Machine Learning | Cloud Developer</h2>
+
 
 <img align="left" alt="yozzylazzy" width="180" src="self-pict.jpeg"/>
 <p align="left">
