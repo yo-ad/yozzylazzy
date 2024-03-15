@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/yozzylazzy/yozzylazzy/blob/main/Copy%20of%20YOZZY%20LAZZY.png)](https://github.com/yozzylazzy)
-
 <h1 align="center">Hi 👋, I'm Yozzy Lazzy</h1>
 <h2 align="center">Full-stack | Machine Learning | Cloud Developer</h2>
 
