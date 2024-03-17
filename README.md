@@ -12,7 +12,6 @@
 - 🔭 A Passionate Full-stack Developer
 - 🌱 Working in web, mobile, game, machine learning, and cloud environment
 - 👨‍💻 My Profile Website is at [https://yozzylazzy.github.io/](https://yozzylazzy.github.io/)
-- 📫 How to reach me **yozzylazzy@yahoo.com**
 
 ---
 
