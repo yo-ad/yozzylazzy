@@ -3,9 +3,6 @@
 
 
 <img align="left" alt="yozzylazzy" width="180" src="self-pict.jpeg"/>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=yozzylazzy&label=Profile%20views&color=0e75b6&style=flat" alt="yozzylazzy" /> 
-</p>
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
